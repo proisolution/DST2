@@ -1,4 +1,4 @@
-public class Main {
+12345public class Main {
 asdasdasdasdasd
 asdasdasd
 456123\\Foam
